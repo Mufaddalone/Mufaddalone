@@ -7,6 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mufaddalone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🎓 I’m studying at Santa Clara University<br>- 📜 I'm pursuing my Masters in Computer Science and Engineering<br>- 📚 I'm currently learning Blockchain Technologies<br>- ⚡ In my free time I like playing video games</p>
 
 ###
 
@@ -88,8 +95,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+#<div align="center">
+#  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+#</div>
 
 ###
